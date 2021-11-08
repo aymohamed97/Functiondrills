@@ -11,7 +11,7 @@ function helloWorld(){
 helloWorld()
 
 ////////////////// PROBLEM 2 ////////////////////
-/*
+/*/
   Create a function called printName which takes in a person's name and console logs it.
   Ex. If 'Cameron' were passed in as the argument, Cameron would be console logged.
   Call the function, passing in an argument.
